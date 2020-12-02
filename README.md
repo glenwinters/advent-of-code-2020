@@ -11,6 +11,8 @@ brew install deno
 
 ## Usage
 
+Run the following in a dayXX folder:
+
 ```
 deno run --allow-read index.ts
 ```
